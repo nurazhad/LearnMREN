@@ -24,7 +24,7 @@ const CarsList = () => {
     return (
       <div className="columns">
         <div className="column is-half">
-          <Link to ="create" className='button is-success'>Add New</Link>
+          <Link to ="create" className='button is-success mt-5'>Add New</Link>
           <table className="table is-striped is-fullwidth mt-5">
             <thead>
               <tr>
